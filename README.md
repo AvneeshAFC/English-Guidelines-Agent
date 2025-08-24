@@ -1,20 +1,22 @@
-# English Guidelines Agent
+# :book: English Guidelines Agent
 
-This is a FastAPI application that provides an API for assessing and modifying documents based on given guidelines.
-LLM used: Llama3.2:3b via Ollama (local)
+Application that provides detailed assessment report and modifies documents based on given guidelines.
+
+LLM used: Llama3.2:3b via Ollama (running locally!)
+
 Framework used: LangGraph
 
 ## Screenshots
 
-![Screenshot 1](examples/Example - Assessing resume Part I.png)
+![Screenshot ](examples/Example%20-%20Assessing%20resume%20Part%20I.png)
 
-![Screenshot 2](examples/Example - Assessing resume Part II.png)
+![Screenshot 2](examples/Example%20-%20Assessing%20resume%20Part%20II.png)
 
 ## Setup
 
 1. Clone the repository:
 ```bash
-$ git clone https://github.com/avneeshafc/English-Guidelines-Agent.git
+$ git clone https://github.com/AvneeshAFC/English-Guidelines-Agent.git
 $ cd English-Guidelines-Agent
 ```
 
@@ -26,12 +28,12 @@ $ pip install -r requirements.txt
 3. Run the application:
 ```bash
 $ python src/main.py
-$ streamlit run src/main.py
+$ streamlit run src/ui.py
 ```
 
 ## API Endpoints
 
-![FastAPI Endpoints](examples/FastAPI Endpoints.png)
+![FastAPI Endpoints](examples/FastAPI%20Endpoints.png)
 
 1. Assess Document
 ```bash
