@@ -33,7 +33,7 @@ $ streamlit run src/ui.py
 
 ## API Endpoints
 
-![FastAPI Endpoints](examples/FastAPI%20Endpoints.png)
+![FastAPI Endpoints](examples/FastAPI%20endpoints.png)
 
 1. Assess Document
 ```bash
