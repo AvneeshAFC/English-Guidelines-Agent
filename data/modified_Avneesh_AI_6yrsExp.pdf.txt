@@ -1,0 +1,58 @@
+Here is the modified document:
+
+Avneesh S. Saini
+
+Contact Information:
+avneeshsinghsaini@gmail.com | +91 9023840303
+
+Education:
+Chitkara University, Punjab
+Bachelor of Technology in Computer Science (2014-2018)
+
+Experience:
+
+Coforge
+Senior Developer - AI (October 2023 - Present)
+Greater Noida
+
+* Led the Intelligent Document Processing (IDP) team to automate large-scale processing for a US-based insurance organization.
+* Developed an LLM application that extracts key fields from automotive repair order documents, reducing latency by 90% and improving contextual understanding through Retrieval Augmented Generation (RAG).
+* Implemented skills such as Python, Azure OCR (Doc AI), Azure OpenAI Studio, FastAPI, NLP, Machine Learning, Prompt versioning, and FAISS.
+
+TheMathCompany
+Data Scientist - Associate (October 2021 - October 2023)
+Bengaluru
+
+* Designed a semi-automated data refresh pipeline that reduced turnaround time from 3-4 days to under 4 hours using HCP Analytics.
+* Worked on the Prescriber Choice Model to determine the impact of multiple prescription touch-points for healthcare physicians.
+* Developed back-end data modules in PySpark, processing millions of records to build new metrics and refresh the dashboard daily.
+
+Capgemini
+Senior Software Engineer (August 2018 - October 2021)
+Mumbai
+
+* Built a People Search Engine web app with automatic scraping of profiles from popular social networks.
+* Developed a multi-label classification model using LightGBM, predicting Big5 Personality traits from user social media posts.
+* Utilized skills such as Python, SQL, NLP, Selenium/Beautiful Soup, and Machine Learning.
+
+Projects:
+
+Insurance Tracking AI (August 2024 - Present)
+Large-scale document classification (>98%) and extraction (>95%) of dynamic fields from Policy insurance documents with a volume of 36,000 docs per day.
+Skills: Python, OCR, NLP, GPT4, Prompt versioning, RAG, DistillBERT, FastAPI.
+
+Auto Code Resolution (April 2024 - July 2024)
+Developed an automated solution that fixes security vulnerabilities in an Azure DevOps repo using Agentic LLM design and creates pull requests to target branches.
+Skills: Python, FastAPI, Git, Azure DevOps, Azure OpenAI, Chain of Thought (CoT).
+
+Awards:
+
+* 2022 Ambition and Hunger TheMathCompany, Annual Awards
+* 2021 Project of the Month Capgemini, Millennial Garage
+* 2012 Gold Medal State Chess Championships
+
+Certifications:
+
+* Microsoft: Azure AIFundamentals certified (AI-900)
+* Dataiku: Core Designer Certified
+* Deeplearning.ai: Natural Language Processing Specialization
